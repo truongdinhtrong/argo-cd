@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: truongdinhtrongctim/sampleapp
-  tag: dev-17d15f111d84c7a63539ca0fdc4a282c5de236b1
+  tag: dev-3e7c0cc11f15fd680891887193b6b5cfc1a53293
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
